@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Remed_192</string>
+    <string name="app_book">Buku</string>
+    <string name="edit_book">Edit Buku</string>
+    <string name="detail_book">Detail Buku</string>
+    <string name="app_kategor">Kategori</string>
+    <string name="edit_kategor">Edit Kategori</string>
+    <string name="detail_kategor">Detail Kategori</string>
+</resources>
